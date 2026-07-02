@@ -1,5 +1,4 @@
-# HACOD
-# Hierarchical Continual Object Detection
+# HACOD: Cross-Dataset Hierarchy-Aware Continual Object Detection for UAV-Based Power-Line Inspection
 
 > A Continual Object Detection framework with Feature Distillation, Relational Preservation, and Confidence-Aware Semantic Relaxation.
 
