@@ -56,6 +56,8 @@ during continual learning.
   <b>Figure 1. Overall framework of the proposed HACOD method.</b>
 </p>
 ```
+
+
 Task 1
       │
       ▼
