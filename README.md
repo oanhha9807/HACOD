@@ -46,8 +46,15 @@ during continual learning.
 
 ---
 
-## Framework
+## Framework Overview
 
+<p align="center">
+  <img src="figures/hacod_framework.png" width="900">
+</p>
+
+<p align="center">
+  <b>Figure 1. Overall framework of the proposed HACOD method.</b>
+</p>
 ```
 Task 1
       │
