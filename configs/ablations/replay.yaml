@@ -61,12 +61,10 @@ replay:
 loss:
 
   feature_distillation:
-    enabled: true
-    weight: 0.2
+    enabled: false
 
   relation_preservation:
-    enabled: true
-    weight: 0.5
+    enabled: false
 
   semantic_hierarchy:
-    enabled: true
+    enabled: false

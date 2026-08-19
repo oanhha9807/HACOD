@@ -65,8 +65,8 @@ loss:
     weight: 0.2
 
   relation_preservation:
-    enabled: true
+    enabled: false
     weight: 0.5
 
   semantic_hierarchy:
-    enabled: true
+    enabled: false

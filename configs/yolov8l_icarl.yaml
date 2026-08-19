@@ -1,0 +1,24 @@
+experiment:
+  name: "YOLOv8l-iCaRL"
+  seed: 42
+
+model:
+  architecture: "YOLOv8l"
+  pretrained: "yolov8l.pt"
+  image_size: 640
+
+training:
+  batch_size: 16
+
+replay:
+  memory_budget: 500
+
+loss:
+  feature_distillation:
+    enabled: true
+
+  relation_preservation:
+    enabled: false
+
+  semantic_hierarchy:
+    enabled: false
