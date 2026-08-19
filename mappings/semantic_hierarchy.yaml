@@ -1,0 +1,14 @@
+semantic_hierarchy:
+
+  polymer_insulator:
+    parent_id: 6
+
+    children:
+      - id: 10
+        name: "polymer insulator lower shackle"
+
+      - id: 11
+        name: "polymer insulator upper shackle"
+
+      - id: 12
+        name: "polymer insulator tower shackle"
