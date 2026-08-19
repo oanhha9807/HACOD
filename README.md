@@ -49,7 +49,7 @@ during continual learning.
 ## Framework Overview
 
 <p align="center">
-  <img src="figures/hacod_framework.png" width="900">
+  <img src="Framework.png" width="900">
 </p>
 
 <p align="center">
