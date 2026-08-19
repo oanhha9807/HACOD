@@ -55,27 +55,7 @@ during continual learning.
 <p align="center">
   <b>Figure 1. Overall framework of the proposed HACOD method.</b>
 </p>
-```
 
-
-Task 1
-      │
-      ▼
-Teacher
-      │
-      ▼
-Feature Distillation
-      │
-      ├────────► Relation Preservation
-      │
-      ├────────► Confidence-aware Semantic Relaxation
-      │
-      ▼
-YOLOv8 Student
-      │
-      ▼
-Task t+1
-```
 
 ---
 
