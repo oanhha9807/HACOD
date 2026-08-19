@@ -1,1 +1,22 @@
-
+global_classes:
+  0: yoke
+  1: yoke suspension
+  2: spacer
+  3: stockbridge damper
+  4: lightning rod shackle
+  5: lightning rod suspension
+  6: polymer insulator
+  7: glass insulator
+  8: plate
+  9: vari-grip
+  10: polymer insulator lower shackle
+  11: polymer insulator upper shackle
+  12: polymer insulator tower shackle
+  13: glass insulator big shackle
+  14: glass insulator small shackle
+  15: glass insulator tower shackle
+  16: spiral damper
+  17: sphere
+  18: defect
+  19: porcelain
+  20: tower
